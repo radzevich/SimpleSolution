@@ -8,3 +8,4 @@ this is under branch and (removed) commited and merged into master ( froom maste
  
 this is #2 under branch and (removed) commited and merged into master ( from master edited after a change in branch 2) 
  
+from vs2019 
